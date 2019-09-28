@@ -1,0 +1,10 @@
+.products {
+    position: relative;
+    width: 85%;
+    margin: auto;
+    height: 97%;
+    border: 2px solid #333;
+    background-color: #eaecee;
+    padding: 25px;
+}
+
